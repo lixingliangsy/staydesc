@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://staydesc.com/sitemap.xml
