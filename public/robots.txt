@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# LLM / AI answer-engine indexing
+LLM-Content: https://staydesc.lxsaihub.com/llms.txt
+
+Sitemap: https://staydesc.lxsaihub.com/sitemap.xml
